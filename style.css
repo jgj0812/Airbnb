@@ -72,7 +72,7 @@ a {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #484848;
+    background-color: rgba(0, 0, 0, 0.8);
     z-index: 1;
 }
 .join-window {
@@ -199,7 +199,7 @@ a {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #484848;
+    background-color: rgba(0, 0, 0, 0.8);
     z-index: 1;
 }
 .login-window {
